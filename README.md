@@ -1,5 +1,5 @@
 # ML Fundamentals
-This repository contains a series of guided jupyter notebooks focusing on essential ML concepts.
+This repo contains a series of guided jupyter notebooks focusing on essential ML concepts.
 
 ## Notebooks Included
 
