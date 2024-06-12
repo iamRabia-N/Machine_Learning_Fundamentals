@@ -1,4 +1,4 @@
-# ML_Fundamentals
+# Machine_Learning_Fundamentals
 This repo contains a series of guided jupyter notebooks focusing on essential ML concepts.
 
 ## Notebooks Included
