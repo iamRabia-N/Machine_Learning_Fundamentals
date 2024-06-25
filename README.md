@@ -9,6 +9,7 @@ This repo contains a series of guided jupyter notebooks focusing on essential ML
 4. Data Types and Attributes
 5. K-Nearest Neighbors (KNN)
 6. Naive Bayes
+7. Comprehensive EDA performed on "Data Science Jobs and Salary" dataset
 
 ## Features
 
