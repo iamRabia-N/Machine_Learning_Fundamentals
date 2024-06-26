@@ -24,5 +24,5 @@ This repo contains a series of guided jupyter notebooks focusing on essential ML
 
 ## Usage
 
-- **Learning**: Use the notebooks to deepen your understanding of various ML techniques.
+- **Learning**: Use the notebooks to deepen your understanding of various ML concepts.
 - **Teaching**: Share these notebooks with students to facilitate learning in classrooms or workshops.
