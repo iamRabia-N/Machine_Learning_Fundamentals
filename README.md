@@ -2,14 +2,14 @@
 This repo contains a series of guided jupyter notebooks focusing on essential ML concepts.
 
 ## Notebooks Included
-
-1. Binary Classification
-2. Clustering
-3. Data Preprocessing
-4. Data Types and Attributes
-5. K-Nearest Neighbors (KNN)
-6. Naive Bayes
-7. Comprehensive EDA performed on "Data Science Jobs and Salary" dataset
+1. Linear Regression
+2. Data Preprocessing
+3. Data Types and Attributes
+4. Binary Classification
+5. Clustering
+6. K-Nearest Neighbors (KNN)
+7. Naive Bayes
+8. Comprehensive EDA performed on "Data Science Jobs and Salary" dataset
 
 ## Features
 
