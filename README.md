@@ -11,6 +11,7 @@ This repo contains a series of guided jupyter notebooks focusing on essential ML
 7. Naive Bayes
 8. Comprehensive EDA performed on "Data Science Jobs and Salary" dataset
 9. Comprehensive EDA performed on "Loan Approval Prediction" dataset
+10. Models implementation performed on "Loan Approval Prediction" dataset
   
 ## Features
 
