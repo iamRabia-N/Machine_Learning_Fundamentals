@@ -1,5 +1,5 @@
 # Machine_Learning_Fundamentals
-This repo contains a series of guided jupyter notebooks focusing on essential ML concepts.
+This repository has a collection of guided Jupyter notebooks that cover essential ML concepts.
 
 ## Notebooks Included
 1. Linear Regression
